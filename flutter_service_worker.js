@@ -42,22 +42,26 @@ const RESOURCES = {
 "assets/assets/introduction_animation/relax_image.png": "750458c224fc63ede91b894cb893fb03",
 "assets/assets/introduction_animation/welcome.png": "0b5447c747d72f631c7b92e12f26e2a1",
 "assets/FontManifest.json": "92d40a44a40733d060286a8973a3bd6c",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "124880ed7189a26c953ef8170114cf28",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/NOTICES": "4b33938c1a38624625e60ca6a930183e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b37ae0f14cbc958316fac4635383b6e8",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "5178af1d278432bec8fc830d50996d6f",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "aa1ec80f1b30a51d64c72f669c1326a7",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3907a5938f926d31e795c845ac437a54",
-"/": "3907a5938f926d31e795c845ac437a54",
-"main.dart.js": "6cd4bcd7e6e7bdd4693b844ddfcca481",
+"index.html": "1fe09575daa1fee8e888bf70920cef4a",
+"/": "1fe09575daa1fee8e888bf70920cef4a",
+"main.dart.js": "2f4e65a7879490bea122cd143c03c891",
 "manifest.json": "affe8bb4f8178d1b3a465afba3cd4618",
-"version.json": "19201fb7d7d8b2eae72aeddf94d6e323"
+"version.json": "5428947d48f8b5d0fceb064d59bbfbbc"
 };
 
 // The application shell files that are downloaded before a service worker can
